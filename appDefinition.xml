@@ -1,5 +1,4 @@
 <appDefinition>
-   <appId>git_test</appId>
    <id>git_test</id>
    <version></version>
    <name>git test</name>
