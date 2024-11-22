@@ -1,0 +1,16 @@
+<appDefinition>
+   <appId>git_test</appId>
+   <id>git_test</id>
+   <version></version>
+   <name>git test</name>
+   <packageDefinitionList/>
+   <formDefinitionList/>
+   <userviewDefinitionList/>
+   <datalistDefinitionList/>
+   <builderDefinitionList/>
+   <pluginDefaultPropertiesList/>
+   <environmentVariableList/>
+   <messageList/>
+   <resourceList/>
+   <license>wo4C0FOPKoOfvSb0trTxRfJxql4b5UC2LrAaSYqwcfvvobvtbUqF4w==</license>
+</appDefinition>
