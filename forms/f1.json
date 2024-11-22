@@ -27,13 +27,23 @@
                 {
                     "className": "org.joget.apps.form.lib.TextField",
                     "properties": {
-                        "encryption": "false",
-                        "readonly": "False",
+                        "requiredSanitize": "",
+                        "maxlength": "",
+                        "validator": {
+                            "className": "",
+                            "properties": {}
+                        },
+                        "label": "abctest2",
+                        "encryption": "",
+                        "readonly": "",
+                        "size": "",
+                        "workflowVariable": "",
                         "style": "",
-                        "label": "Text Field",
                         "id": "field1",
-                        "readonlyLabel": "False",
-                        "storeNumeric": "False"
+                        "placeholder": "",
+                        "value": "",
+                        "readonlyLabel": "",
+                        "storeNumeric": ""
                     }
                 }
             ],
